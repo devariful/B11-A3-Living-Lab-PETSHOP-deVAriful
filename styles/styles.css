@@ -4,9 +4,10 @@ body{
 
 .hero-image{
      background-image: url('../c1-assets/cat-big.png');
-    background-repeat: no-repeat;
+     width: 100%;   background-repeat: no-repeat;
     background-size: contain;
     background-position: right bottom;
+    
     
     
     
